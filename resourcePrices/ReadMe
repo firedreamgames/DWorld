@@ -1,1 +1,4 @@
+### Calculation of resource prices
+Resource prices are dynamicaly calculated depending on total quantity of production units and total upvote value at 100% of Dworld-io bot
+For now, the output is a console.log 
 
